@@ -11,7 +11,6 @@ import (
 	"github.com/charmbracelet/lipgloss"
 )
 
-// Constants for sections
 const (
 	Portfolio = iota
 	Blog
