@@ -1,0 +1,23 @@
+
+# Compiled binary
+*.exe
+*.out
+*.dll
+*.so
+
+# Test binaries
+*.test
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Vendor directory (if not vendoring)
+vendor/
+
+# Logs
+*.log
